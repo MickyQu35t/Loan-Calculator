@@ -1,2 +1,1 @@
-# Loan-Calculator
-Simple Loan Calculator
+Calculator for loan payments This is a calculator web app that calculates your monthly payments and total interest that will be paid in the end. You are required to enter the Loan Amount you are trying to get, the interest rate and the number of years the loan is to be repaid for. NB: This is a simple loan calculator based on interest only load system. Look up another popular system call Amortized loan system before using this app for financial decisions. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOhOKb8Iv3AhVOgP0HHYmxB34QFnoECAsQAw&url=https%3A%2F%2Fwww.connectinvest.com%2Fresources%2Fblogs%2Famortized-vs-interest-only-payments%2F&usg=AOvVaw0Mau7RAZVRwCD4fLmuASEn
